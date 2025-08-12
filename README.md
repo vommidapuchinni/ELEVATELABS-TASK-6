@@ -22,7 +22,8 @@ It can be accessed by anyone online — no server needed.
 
 ## Screenshot
 ![Output Screenshot](screenshots/output.png)
-
+![pageslink Screenshot](screenshots/pageslink.png)
+![githubpages Screenshot](screenshots/githubpages.png)
 
 ##  Live Website
 [Click here to see my website](https://vommidapuchinni.github.io/ELEVATELABS-TASK-6/)
