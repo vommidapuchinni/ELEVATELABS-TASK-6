@@ -14,14 +14,14 @@ It can be accessed by anyone online — no server needed.
 - GitHub Pages → Hosting my site
 
 
-## 📂 Files in this project
+## Files in this project
 - index.html → Main webpage
 - style.css → Design and styles
 - README.md → This file
 
 
 ## Screenshot
-
+![Output Screenshot](screenshots/output.png)
 
 
 ##  Live Website
